@@ -7,5 +7,6 @@ package com.agree;
  * @version: 1.0
  */
 public class Test01 {
-
+    private String name;
+    private double height;
 }
