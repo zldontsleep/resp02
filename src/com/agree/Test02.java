@@ -8,4 +8,5 @@ package com.agree;
  */
 public class Test02 {
     private int age;
+    private  double weight;
 }
